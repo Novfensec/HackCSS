@@ -92,7 +92,8 @@ d-flex {
 }
 
 .card-title {
-	padding: 0rem 4px;
+	flex:1 1 auto;
+        padding: 0rem 1rem;
 }
 
 .card-body {
